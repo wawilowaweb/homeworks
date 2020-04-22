@@ -1,2 +1,2 @@
-# homeworks
-My homeworks of developement course
+Домашние работы
+My homeworks of development course
